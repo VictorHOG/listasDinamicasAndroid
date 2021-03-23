@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaDinamicaHeroes</string>
+    <string name="spFirstTime">spFirstTime</string>
+    <string name="dialog_register">Registro</string>
+    <string name="confirm_dialog">Registrar</string>
+    <string name="spUserName">spUserName</string>
+</resources>
